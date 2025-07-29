@@ -33,7 +33,7 @@ This tutorial provides step-by-step instructions on how to obtain your data. Thi
 
 ### Install PostgreSQL libraries
 ```{bash}
-sudo apt install libpq-dev libssl-dev
+sudo apt install libpq-dev libssl-dev cmake gdal-bin
 ```
 
 ### Installing R Spatial on Ubuntu
